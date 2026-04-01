@@ -1,3 +1,19 @@
+# 👨‍💻 Arvind Koli
+
+### 📱 Senior Android Developer | 6+ Years Experience
+
+<p align="center">
+  <img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  💻 Kotlin | MVVM | Clean Architecture | Hilt | Jetpack <br/>
+  🚀 Building scalable Android apps & sharing practical knowledge
+</p>
+
+---
+
+
 # 🟢 Kotlin Learning Portfolio — Beginner to Advanced 🚀
 
 > 📚 A complete Kotlin learning repository with practical examples, Android use-cases, and interview-ready content.
