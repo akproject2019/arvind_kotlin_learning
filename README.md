@@ -3,7 +3,7 @@
 ### 📱 Senior Android Developer | 6+ Years Experience
 
 <p align="center">
-  <img src="assets/profile.png" width="642" height="864" style="border-radius:50%;" />
+  <img src="assets/profile_new.png" width="396" height="948" style="border-radius:50%;" />
 </p>
 
 <p align="center">
