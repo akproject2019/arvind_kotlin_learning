@@ -1,15 +1,14 @@
 # 👨‍💻 Kotlin Learning Portfolio — Beginner to Advanced 🚀
 
-<table>
-  <tr>
-    <td width="60%">
-      
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="55%" align="left" valign="top">
+
 ## 📱 Senior Android Developer | 6+ Years Experience
 
-<p>
-  💻 Kotlin | MVVM | Clean Architecture | Hilt | Jetpack <br/>
-  🚀 Building scalable Android apps & sharing practical knowledge
-</p>
+💻 Kotlin | MVVM | Clean Architecture | Hilt | Jetpack  
+🚀 Building scalable Android apps & sharing practical knowledge
 
 ### ⚡ TL;DR
 - 📌 Covers Kotlin from **basics → advanced**
@@ -35,12 +34,13 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 - ✅ Strong demand in job market  
 > 📱 Used in: MVVM, Clean Architecture, Jetpack Compose  
 
-    </td>
-    <td width="40%" align="center" valign="top">
-      <img src="assets/profile_new_1.png" width="341" height="851" style="border-radius:50%; margin-top: 20px;" />
-    </td>
-  </tr>
-</table>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="assets/profile_new_1.png" alt="Profile" width="250" height="380">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -75,10 +75,6 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-
 ## 👨‍💻 About Me
 
 <h3>Arvind Koli</h3>
@@ -92,12 +88,5 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 - Mentor junior developers and share practical knowledge
 - Contribute to open-source Android projects
 - Write technical blogs and create tutorials
-
-    </td>
-    <td width="40%" align="center" valign="top">
-      <img src="assets/profile_new_1.png" width="341" height="851" style="border-radius:50%; margin-top: 20px;" />
-    </td>
-  </tr>
-</table>
 
 ---
