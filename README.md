@@ -37,7 +37,7 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="assets/profile_new_1.png" width="300" height="450" style="border-radius:15px; margin-top: 20px;" />
+      <img src="assets/profile_new_1.png" width="341" height="851" style="border-radius:50%; margin-top: 20px;" />
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="assets/profile_new_1.png" width="250" height="250" style="border-radius:50%; margin-top: 20px;" />
+      <img src="assets/profile_new_1.png" width="341" height="851" style="border-radius:50%; margin-top: 20px;" />
     </td>
   </tr>
 </table>
