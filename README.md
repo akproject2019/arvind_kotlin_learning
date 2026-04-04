@@ -1,38 +1,24 @@
-# 👨‍💻 Arvind Koli
+# 👨‍💻 Kotlin Learning Portfolio — Beginner to Advanced 🚀
 
-### 📱 Senior Android Developer | 6+ Years Experience
+<table>
+  <tr>
+    <td width="60%">
+      
+## 📱 Senior Android Developer | 6+ Years Experience
 
-<p align="center">
-  <img src="assets/profile_new.png" width="396" height="948" style="border-radius:50%;" />
-</p>
-
-<p align="center">
+<p>
   💻 Kotlin | MVVM | Clean Architecture | Hilt | Jetpack <br/>
   🚀 Building scalable Android apps & sharing practical knowledge
 </p>
 
----
-
-
-# 🟢 Kotlin Learning Portfolio — Beginner to Advanced 🚀
-
-> 📚 A complete Kotlin learning repository with practical examples, Android use-cases, and interview-ready content.
-
----
-
-## ⚡ TL;DR
-
+### ⚡ TL;DR
 - 📌 Covers Kotlin from **basics → advanced**
 - 📱 Focused on **real Android development**
 - 💻 Includes **clean code examples**
 - 🎯 Designed for **interview preparation + real projects**
 
----
-
-## 📌 Introduction
-
+### 📌 Introduction
 This repository is a structured **Kotlin learning portfolio** designed for:
-
 - 🧑‍💻 Beginners starting Kotlin  
 - 📱 Android developers improving skills  
 - 🎯 Developers preparing for interviews  
@@ -42,51 +28,44 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 - Real-world usage  
 - Clean Kotlin examples  
 
----
-
-## 🚀 Why This Is Important
-
+### 🚀 Why This Is Important
 - ✅ Kotlin is the official language for Android  
 - ✅ Required for modern Android development  
 - ✅ Helps write clean, safe, and concise code  
 - ✅ Strong demand in job market  
-
 > 📱 Used in: MVVM, Clean Architecture, Jetpack Compose  
+
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="assets/profile_new_1.png" width="300" height="450" style="border-radius:15px; margin-top: 20px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧠 Concept Explanation
 
 ### 🟢 Beginner Topics
-
 - Variables (`val` vs `var`)
 - Data Types
 - Operators
 - Control Flow (`if`, `when`, loops)
 
----
-
 ### 🟡 Intermediate Topics
-
 - Functions & Lambdas  
 - Collections (List, Set, Map)  
 - OOP (Class, Object, Inheritance)  
 - Null Safety  
 
----
-
 ### 🔴 Advanced Topics
-
 - Coroutines & Flow  
 - Sealed Classes  
 - Extension Functions  
 - Higher-Order Functions  
 - Delegates (`lazy`, `lateinit`)  
 
----
-
 ### 📱 Android-Focused Topics
-
 - MVVM Architecture  
 - LiveData / StateFlow  
 - RecyclerView with multiple types  
@@ -96,26 +75,29 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 
 ---
 
+<table>
+  <tr>
+    <td width="60%">
 
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+<h3>Arvind Koli</h3>
 
-<p align="center">
-  <img src="https://your-image-url.com/profile.jpg" width="150" height="150" style="border-radius:50%;" />
-</p>
+📱 **Senior Android Developer** (6+ Years Experience)  
+💻 **Kotlin** | **MVVM** | **Clean Architecture** | **Hilt** | **Jetpack**  
+🚀 Passionate about building scalable Android apps & sharing knowledge
 
-<h3 align="center">Arvind Thakor</h3>
-<p align="center">
-  📱 Senior Android Developer (6+ Years Experience) <br/>
-  💻 Kotlin | MVVM | Clean Architecture | Hilt | Jetpack <br/>
-  🚀 Passionate about building scalable Android apps & sharing knowledge
-</p>
+### 🎯 What I Do
+- Design and develop production-grade Android applications
+- Mentor junior developers and share practical knowledge
+- Contribute to open-source Android projects
+- Write technical blogs and create tutorials
+
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="assets/profile_new_1.png" width="250" height="250" style="border-radius:50%; margin-top: 20px;" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 📌 Introduction
-
-This repository is a structured **Kotlin learning portfolio** designed for:
-
-
-
