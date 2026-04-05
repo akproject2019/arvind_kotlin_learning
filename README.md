@@ -37,12 +37,6 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 
 ---
 
-## 🧠 Concept Explanation
-
-<table>
-<tr>
-<td width="60%">
-
 #### 🟢 Beginner Topics
 - Variables (`val` vs `var`)
 - Data Types
@@ -71,11 +65,6 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 - Dependency Injection (Hilt)
 
 </td>
-<td width="40%">
-
-![Concepts](assets/concepts.png)
-
-</td>
 </tr>
 </table>
 
@@ -93,11 +82,6 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 - ✅ Strong demand in job market
 
 **📱 Used in:** MVVM, Clean Architecture, Jetpack Compose
-
-</td>
-<td width="40%">
-
-![Why Important](assets/importance.png)
 
 </td>
 </tr>
@@ -145,11 +129,6 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 - Android Developer Guides
 - Clean Code Principles
 - Design Patterns in Android
-
-</td>
-<td width="40%">
-
-![Resources](assets/resources.png)
 
 </td>
 </tr>
