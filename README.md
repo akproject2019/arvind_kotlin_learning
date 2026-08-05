@@ -29,7 +29,7 @@ This repository is a structured **Kotlin learning portfolio** designed for:
 </td>
 <td width="40%">
 
-![Profile](assets/profile_new_3.png)
+![Profile](assets/profile_new_4.png)
 
 </td>
 </tr>
